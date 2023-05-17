@@ -1,0 +1,32 @@
+body
+ {
+	background-image:url('slipknot.jpg');
+	background-image:url('th(2).jpg');
+	background-size:cover;
+	background-position:center;
+	background-color:yellow;
+}
+h3
+{
+	color:blue;
+}
+p
+{
+	color:green;
+}
+img
+{
+	width:5000px;
+	height:5000px;
+}
+ul li
+{
+	display:inline-block;
+	font-size:1000;
+	padding:1px  10px;
+	border:1px solid black;
+}
+ul
+{
+	text-align:center;
+}
